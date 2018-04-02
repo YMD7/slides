@@ -15,8 +15,6 @@ Kyo Yamada ([Github](https://github.com/YMD7))
 
 # 論文の要旨
 
-## 要約
-
 ---
 
 #### 論文の著者 #1
@@ -59,4 +57,18 @@ Moffett Field, CA 94035, USA
 Email: cecile.peraire@sv.cmu.edu
 
 ---
+
+# 論文の構成
+
+1. INTRODUCTION
+2. A BRIEF HISTORY OF LEAN
+3. RESEARCH METHOD
+4. RESULTS: TYPES OF WASTE IN SOFTWAREENGINEERING
+5. COMPARING TO LEAN SOFTWARE DEVELOPMENT
+6. RESULTS EVALUATION AND QUALITY CRITERIA
+7. CONCLUSION
+
+---
+
+
 
