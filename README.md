@@ -3,5 +3,5 @@
 The slides on this repo are for [GitPitch](https://github.com/gitpitch/gitpitch).
 
 ### To See the Slides on GitPitch
-https://gitpitch.com/YMD7/slides/branch?p=[slide-name]
+https://gitpitch.com/YMD7/slides[/branch-name]?p=directory-name
 
