@@ -1,3 +1,11 @@
 .reveal h1 {
   font-size: 1.4em;
 }
+.reveal blockquote {
+  width: 85%;
+  font-size: 0.8em;
+}
+.reveal h6 {
+  font-size: 0.65em;
+  font-weight: normal;
+}
