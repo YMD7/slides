@@ -104,9 +104,6 @@ Email: cecile.peraire@sv.cmu.edu
 - 社内の共通認識・共通言語をつくり
 - ユーザーにとって価値のある工数にしよう！
 
-
-
-
 ###### 以降のスライドで色んな無駄を紹介します →→→
 
 ---
@@ -117,7 +114,9 @@ Email: cecile.peraire@sv.cmu.edu
 
 ---
 
-# User needs V.S. Business wants
+# User needs
+# V.S.
+# Business wants
 
 - 意図だけで作るプロダクトはリスキーでだいたいは無駄に終わる
 - ペルソナがフィクションでステレオタイプなユーザー像である
