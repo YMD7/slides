@@ -1,4 +1,7 @@
 .reveal h1 {
+  font-size: 1.8em;
+}
+.reveal h2 {
   font-size: 1.4em;
 }
 .reveal h6 {
@@ -9,7 +12,6 @@
 .reveal p {
   padding: 24px;
   font-size: 1.0em;
-  text-align: left;
   line-height: 1.4;
 }
 .reveal blockquote {
