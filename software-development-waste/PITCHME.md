@@ -98,7 +98,7 @@ Email: cecile.peraire@sv.cmu.edu
 
 ---
 
-# 9つの無駄タイプ
+# ９つの無駄タイプ
 
 - どんな無駄があるかを知って
 - 社内の共通認識・共通言語をつくり
@@ -108,7 +108,8 @@ Email: cecile.peraire@sv.cmu.edu
 
 ---
 
-# 1. そもそも仕様や作ろうとしてるサービスが間違ってる
+# タイプ1.
+# そもそも仕様や作ろうとしてるサービスが間違ってる
 
 誰も求めてない、欲してない、使わない機能（や、最悪の場合プロダクトそのもの）を作ることは、全員の努力や時間を無駄にすることが明白である。この手の無駄はチームのモラル、コードオーナーシップ、そして顧客満足に影響する。
 
@@ -125,13 +126,16 @@ Email: cecile.peraire@sv.cmu.edu
 
 ---
 
-# 2. 残課題（バックログ）の管理がへぐってる
+# タイプ2.
+# 残課題（バックログ）の管理がへぐってる
 
 課題管理の運用ミスはよく起こるし、たいてい重要機能の実装遅延やチームの生産性低下を引き起こす。そもそもエンジニアが課題に着手するとき、その課題は古い優先順位だ。管理ミスは重複作業も招く。二人のエンジニアが同種のタスクにとりかかってしまうケースなどが挙げられる。
 
 ---
 
-# Finishing features V.S. Working on too many features simultaneously
+# Finishing features
+# V.S.
+# Working on too many features simultaneously
 
 - 一度に実装しようとする仕様や機能が多すぎる
 - 小さくても良いから「終わらせる」ことよりも「仕様が完成する」ことを優先している
@@ -140,7 +144,9 @@ Email: cecile.peraire@sv.cmu.edu
 
 ---
 
-# Intransigence V.S. Capricious adjustments
+# Intransigence
+# V.S.
+# Capricious adjustments
 
 - 「変更に柔軟」であることは、すなわち「変更しない」ことの反対と考えられている
 - それはアジャイル開発の信条におけるコアであるとされていた
@@ -149,7 +155,8 @@ Email: cecile.peraire@sv.cmu.edu
 
 ---
 
-# 3. 作り直し
+# タイプ3.
+# 作り直し
 
 新しい情報が得られたことでより
 
@@ -162,7 +169,8 @@ Email: cecile.peraire@sv.cmu.edu
 
 ---
 
-# 4. 無駄に複雑なソリューション
+# タイプ4.
+# 無駄に複雑なソリューション
 
 
 
