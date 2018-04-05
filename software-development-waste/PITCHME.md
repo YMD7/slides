@@ -105,6 +105,22 @@ Email: cecile.peraire@sv.cmu.edu
 - 社内の共通認識・共通言語をつくり
 - ユーザーにとって価値のある工数にしよう！
 
+---
+
+##### Types of Software Development Waste
+
+Waste | Descriptsion
+----- | ------------
+Building the wrong feature or product | The cost of building a feature or product that does not address user or business needs.
+Mismanaging the backlog | The cost of duplicating work, expediting lower value user features, or delaying necessary bug ﬁxes.
+Rework | The cost of altering delivered work that should have been done correctly but was not.
+Unnecessarily complex solutions | The cost of creating a more complicated solution than necessary, a missed opportunity to simplify features, user interface, or code.
+Extraneous cognitive load | The costs of unneeded expenditure of mental energy.
+Psychological distress | The costs of burdening the team with unhelpful stress.
+Waiting/multitasking | The cost of idle time, often hidden by multi-tasking.
+Knowledge loss | The cost of re-acquiring information that the team once knew.
+Ineffective communication | The cost of incomplete, incorrect, misleading, inefﬁcient, or absent communication.
+
 ###### 以降のスライドで色んな無駄を紹介します →→→
 
 ---
