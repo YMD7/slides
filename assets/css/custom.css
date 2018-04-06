@@ -1,8 +1,8 @@
 .reveal h1 {
-  font-size: 1.8em;
+  font-size: 1.7em;
 }
 .reveal h2 {
-  font-size: 1.4em;
+  font-size: 1.3em;
 }
 .reveal h6 {
   margin-top: 40px;
@@ -11,14 +11,17 @@
 }
 .reveal p {
   padding: 24px;
-  font-size: 1.0em;
+  font-size: 0.8em;
   line-height: 1.4;
+}
+.reveal ul {
+  font-size: 0.9em;
 }
 .reveal table {
   font-size: 0.5em;
 }
 .reveal blockquote {
   width: 85%;
-  font-size: 0.8em;
+  font-size: 0.6em;
 }
 
